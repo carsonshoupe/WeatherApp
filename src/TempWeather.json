@@ -1,0 +1,42 @@
+{
+	"coord": {
+		"lon": -80.84,
+		"lat": 35.23
+	},
+	"weather": [
+		{
+			"id": 803,
+			"main": "Clouds",
+			"description": "broken clouds",
+			"icon": "04d"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 278.39,
+		"pressure": 1020,
+		"humidity": 48,
+		"temp_min": 277.15,
+		"temp_max": 279.85
+	},
+	"visibility": 16093,
+	"wind": {
+		"speed": 4.6,
+		"deg": 330
+	},
+	"clouds": {
+		"all": 75
+	},
+	"dt": 1544022000,
+	"sys": {
+		"type": 1,
+		"id": 3648,
+		"message": 0.0046,
+		"country": "US",
+		"sunrise": 1544012254,
+		"sunset": 1544047854
+	},
+	"id": 4460243,
+	"name": "Charlotte",
+	"cod": 200
+}
